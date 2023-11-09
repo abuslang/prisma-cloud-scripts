@@ -8,5 +8,5 @@ Python scripts to do common Prisma Cloud tasks programatically
 api_key = "you-api-key"
 api_secret = "your-secret-key"
 
-# your prisma cloud tenant
+your prisma cloud tenant, this is an example 
 url = "https://api.prismacloud.io/"
